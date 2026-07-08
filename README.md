@@ -17,7 +17,7 @@ J'articule les mathématiques appliquées et la programmation pour transformer l
 
 ### 🚀 Projets Vedettes
 1.  **Projet personnel de modélisation prédictive du Risque de crédit :** A l’aide de la régression logistique sur le logiciel R j’ai développé un modèle prédictif de risque de crédit à partir des données historiques de 20 000 clients prises sur Kaggle déterminant le résultat binaire de l'approbation d’un prêt en indiquant si un demandeur est susceptible d'être approuvé ou refusé pour un prêt. 
-2. **ANALYSE DE L’IMPACT DES CHOCS DE PRIX DANS LES SECTEURS DE L’ALIMENTATION ET DU TRANSPORT SUR LA CONSOMMATION DES MENAGES AU TOGO** J'ai analysé comment les ménages réagissaient aux chocs des prix dans les secteurs de l'alimentation et des transports.
+2. **Analyse de l'impact des chocs de prix dans les secteurs de l'alimentation et du transport sur la consommation des ménages au Togo** J'ai analysé comment les ménages réagissaient aux chocs des prix dans les secteurs de l'alimentation et des transports.
 
 ### 📬 Me contacter
 *   **LinkedIn :** https://www.linkedin.com/in/obed-afetou-3aa829279?utm_source=share_via&utm_content=profile&utm_medium=member_android
